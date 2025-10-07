@@ -1,3 +1,5 @@
-#visibilidades desnecessarias
-.vscode/
+#ignorar
 lib/
+
+#ignorar IDEs
+.vscode/
